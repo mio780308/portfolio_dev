@@ -1,4 +1,4 @@
-class ListItemData{
+export class ListItemData{
     constructor(name,mediaLink,description,hasVideo){
         this.name=name;
         this.mediaLink=mediaLink;
@@ -7,4 +7,6 @@ class ListItemData{
     }
 }
 
-export default ListItemData;
+export class shit{
+
+}
